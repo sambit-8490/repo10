@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 b2 content
+=======
+b1 content
+>>>>>>> b1

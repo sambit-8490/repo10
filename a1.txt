@@ -1,5 +1,9 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 master content
 =======
 b2 content
 >>>>>>> b2
+=======
+b1 content
+>>>>>>> b1
